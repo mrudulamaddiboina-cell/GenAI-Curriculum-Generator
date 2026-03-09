@@ -1,3 +1,5 @@
+The Website link https://style-ai-app.base44.app
+
 StyleAI – AI Powered Fashion Styling Advisor (Project Description)
 
 StyleAI is an intelligent fashion styling platform that uses Artificial Intelligence to provide personalized fashion recommendations. The system uses the Groq API with the LLaMA-3.3-70B model to analyze user images and generate styling suggestions based on their skin tone, gender, and fashion trends.
